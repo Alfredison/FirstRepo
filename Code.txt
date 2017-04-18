@@ -1,1 +1,2 @@
 print("Leha is asshole")
+print("Artur is not")
