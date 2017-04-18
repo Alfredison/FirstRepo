@@ -1,2 +1,4 @@
 print("Leha is asshole")
 print("Artur is not")
+
+print("Blackjack is the greatest hero of Wasteland")
